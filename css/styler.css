@@ -1,0 +1,38 @@
+.navbar-default .navbar-brand {
+    color: #fff;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #fff;
+}
+.btn-vermelho{
+	color: red;
+}
+.borda-vermelha{
+	border: 1px solid red;
+    border-top-color: red;
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-right-color: red;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-bottom-color: red;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: red;
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+}
+.btn-lado{
+   position: relative;
+    width: 100px;
+    left: 200px;
+    top: -40px;
+}
+.affvei{
+    bottom: -40px;
+}
